@@ -2,6 +2,7 @@
 
 ### Connect Your AI Agents. Automate Your Repository.
 
+Official CA : https://pump.fun/coin/DuRBUSkrjM7dS2XWy4tTjW8XivYM4t14J6xSzDH4pump
 LinkerAssistant is an open-source CLI that connects directly to your repository, enabling AI agents to collaborate on refactors, bug fixes, code generation, reviews, and repetitive development tasks from a single terminal interface.
 
 Built for modern AI-assisted development, LinkerAssistant turns isolated coding agents into a coordinated workforce that understands your codebase and executes tasks with context. Inspired by the growing ecosystem of terminal-native AI development tools and multi-agent workflows. :contentReference[oaicite:0]{index=0}
